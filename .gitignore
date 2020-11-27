@@ -1,0 +1,15 @@
+.vs/ShorteringUrlWebService/v16/.suo
+.vs/ShorteringUrlWebService/DesignTimeBuild/.dtbcache.v2
+.vs/ShorteringUrlWebService/config/applicationhost.config
+ShorteringUrlWebService.BL/bin/
+ShorteringUrlWebService.BL/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ShorteringUrlWebService.BL/obj/Debug/netcoreapp3.1/ShorteringUrlWebService.BL.AssemblyInfo.cs
+ShorteringUrlWebService.BL/obj/ShorteringUrlWebService.BL.csproj.nuget.dgspec.json
+ShorteringUrlWebService.BL/obj/Debug/netcoreapp3.1/ShorteringUrlWebService.BL.assets.cache
+ShorteringUrlWebService.BL/obj/
+ShorteringUrlWebService.DAL/bin/Debug/netcoreapp3.1/ShorteringUrlWebService.DAL.deps.json
+ShorteringUrlWebService.DAL/bin/
+ShorteringUrlWebService.Models/obj/
+ShorteringUrlWebService.DAL/obj/
+ShorteringUrlWebService.Models/bin/
+ShorteringUrlWebService/ClientApp/package-lock.json
